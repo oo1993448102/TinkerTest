@@ -8,3 +8,9 @@
 [CSDN](http://blog.csdn.net/u010983881/article/details/53196574)
 
 [GITHUB Tinker](https://github.com/Tencent/tinker)
+
+
+notes:
+一次build后要删除SampleApplication？
+
+buildAssemble版本需修改的话要改变tinkerId
